@@ -1,6 +1,8 @@
-myapp <command> <option>
+myapp       <command>     <option>
 
-Usage:
+                 Usage:
+
+                 
 
 myapp --help              displays help
 
@@ -12,4 +14,6 @@ myapp init --all          create all the folders and files
 
 
 myapp config              create or change the app configuration
-myapp token               manage the users tokens
+myapp config --show       show the contents off the config file
+myapp config --reset      reset back to default the config file
+myapp config --set        set a specific attribute of the config file
