@@ -1,0 +1,15 @@
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (1, '8915 Delladonna Avenue', 'Grand Rapids', 'Michigan', '49510', 'shipping',9);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (2, '7900 Hudson Parkway', 'Baltimore', 'Maryland', '21265', 'shipping', 8);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (3, '4053 Huxley Avenue', 'Rochester', 'New York', '14639', 'billing', 13);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (4, '061 South Lane', 'Pompano Beach', 'Florida', '33075', 'shipping', 3);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (5, '30 Banding Pass', 'New York City', 'New York', '10292', 'billing', 5);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (6, '7771 Stoughton Pass', 'Los Angeles', 'California', '90081', 'shipping', 6);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (7, '63088 Corscot Court', 'Lawrenceville', 'Georgia', '30245', 'shipping', 15);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (8, '25916 Lawn Road', 'Newport News', 'Virginia', '23612', 'shipping', 4);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (9, '17 Ronald Regan Lane', 'Philadelphia', 'Pennsylvania', '19115', 'billing', 11);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (10, '01 Dorton Drive', 'Dallas', 'Texas', '75379', 'billing', 2);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (11, '2 Mandrake Crossing', 'Baltimore', 'Maryland', '21265', 'billing', 12);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (12, '74215 Sauthoff Drive', 'Jacksonville', 'Florida', '32259', 'shipping', 7);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (13, '4935 Gateway Alley', 'Gary', 'Indiana', '46406', 'billing', 14);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (14, '89 Grim Park', 'Phoenix', 'Arizona', '85053', 'billing', 10);
+insert into public."address" (address_id, street_address, city, province, postal_code, address_type, person_id) values (15, '128 Merrick Plaza', 'Saint Louis', 'Missouri', '63158', 'billing', 1);

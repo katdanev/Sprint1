@@ -1,0 +1,15 @@
+insert into public."person_address_join" (person_id, address_id) values (8, 12);
+insert into public."person_address_join" (person_id, address_id) values (2, 9);
+insert into public."person_address_join" (person_id, address_id) values (3, 4);
+insert into public."person_address_join" (person_id, address_id) values (1, 1);
+insert into public."person_address_join" (person_id, address_id) values (9, 8);
+insert into public."person_address_join" (person_id, address_id) values (5, 3);
+insert into public."person_address_join" (person_id, address_id) values (13, 2);
+insert into public."person_address_join" (person_id, address_id) values (15, 5);
+insert into public."person_address_join" (person_id, address_id) values (6, 6);
+insert into public."person_address_join" (person_id, address_id) values (4, 11);
+insert into public."person_address_join" (person_id, address_id) values (7, 7);
+insert into public."person_address_join" (person_id, address_id) values (10, 10);
+insert into public."person_address_join" (person_id, address_id) values (11, 13);
+insert into public."person_address_join" (person_id, address_id) values (12, 14);
+insert into public."person_address_join" (person_id, address_id) values (14, 15);

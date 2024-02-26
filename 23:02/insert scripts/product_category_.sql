@@ -1,0 +1,10 @@
+insert into public."productCategory" (category_id, category_name) values (1, 'Books');
+insert into public."productCategory" (category_id, category_name) values (2, 'Arts & Crafts');
+insert into public."productCategory" (category_id, category_name) values (3, 'Bath &Body');
+insert into public."productCategory" (category_id, category_name) values (4, 'Books');
+insert into public."productCategory" (category_id, category_name) values (5, 'Clothing & Apparel');
+insert into public."productCategory" (category_id, category_name) values (6, 'Collectable Pins');
+insert into public."productCategory" (category_id, category_name) values (7, 'Fine Art');
+insert into public."productCategory" (category_id, category_name) values (8, 'Food & Drink');
+insert into public."productCategory" (category_id, category_name) values (9, 'Garden');
+insert into public."productCategory" (category_id, category_name) values (10, 'Handmade');

@@ -1,0 +1,15 @@
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (1, 'Matilde Gabites', 'mgabites0@marketwatch.com', '531-849-0374', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (2, 'Sallee McParlin', 'smcparlin1@google.de', '796-237-1810', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (3, 'Alexi Haslegrave', 'ahaslegrave2@microsoft.com', '746-753-7740', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (4, 'Siouxie Winslett', 'swinslett3@techcrunch.com', '148-466-7697', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (5, 'Costa Mechi', 'cmechi4@themeforest.net', '637-395-9138', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (6, 'Pernell Jurasek', 'pjurasek5@nsw.gov.au', '997-995-5774', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (7, 'Ferris Guinn', 'fguinn6@archive.org', '501-517-4472', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (8, 'Barn MacNeilly', 'bmacneilly7@edublogs.org', '147-986-0077', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (9, 'Bertha Barnwille', 'bbarnwille8@bigcartel.com', '178-188-8298', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (10, 'Paige Bicknell', 'pbicknell9@newyorker.com', '552-692-8137', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (11, 'Minnie Shingfield', 'mshingfielda@go.com', '618-285-9903', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (12, 'Thacher O''Donoghue', 'todonoghueb@hatena.ne.jp', '141-422-3896', 'customer');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (13, 'Tito Hunte', 'thuntec@europa.eu', '357-153-1582', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (14, 'Morgan Wotton', 'mwottond@yale.edu', '806-363-9761', 'vendor');
+insert into public."person" (person_id, person_name, email, phone_number, person_type) values (15, 'Gwendolen Bausor', 'gbausore@is.gd', '801-442-9806', 'customer');

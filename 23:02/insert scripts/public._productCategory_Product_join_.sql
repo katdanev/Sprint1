@@ -1,0 +1,15 @@
+insert into public."productCategory_Product_join" (product_id, category_id) values (2, 4);
+insert into public."productCategory_Product_join" (product_id, category_id) values (7, 8);
+insert into public."productCategory_Product_join" (product_id, category_id) values (13, 4);
+insert into public."productCategory_Product_join" (product_id, category_id) values (10, 9);
+insert into public."productCategory_Product_join" (product_id, category_id) values (9, 3);
+insert into public."productCategory_Product_join" (product_id, category_id) values (12, 6);
+insert into public."productCategory_Product_join" (product_id, category_id) values (5, 1);
+insert into public."productCategory_Product_join" (product_id, category_id) values (11, 6);
+insert into public."productCategory_Product_join" (product_id, category_id) values (6, 9);
+insert into public."productCategory_Product_join" (product_id, category_id) values (4, 4);
+insert into public."productCategory_Product_join" (product_id, category_id) values (1, 10);
+insert into public."productCategory_Product_join" (product_id, category_id) values (3, 4);
+insert into public."productCategory_Product_join" (product_id, category_id) values (8, 2);
+insert into public."productCategory_Product_join" (product_id, category_id) values (14, 6);
+insert into public."productCategory_Product_join" (product_id, category_id) values (15, 6);

@@ -1,0 +1,15 @@
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (1, 11, '10/17/2023', 'Purolator');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (2, 15, '1/7/2024', 'UPS');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (3, 2, '2/10/2024', 'Feedex');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (4, 8, '6/13/2023', 'Feedex');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (5, 9, '5/5/2023', 'UPS');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (6, 3, '9/19/2023', 'Feedex');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (7, 6, '10/31/2023', 'Feedex');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (8, 7, '8/6/2023', 'CanadaPost');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (9, 13, '4/8/2023', 'CanadaPost');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (10, 1, '11/22/2023', 'CanadaPost');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (11, 4, '7/30/2023', 'Purolator');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (12, 10, '6/28/2023', 'Feedex');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (13, 5, '2/5/2024', 'Feedex');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (14, 12, '7/31/2023', 'CanadaPost');
+insert into public."orderInvoice" (invoice_id, person_id, date, shipping_information) values (15, 14, '11/16/2023', 'Purolator');
